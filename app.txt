@@ -1,1 +1,4 @@
-"Course Registration Feature" 
+Course Registration Feature
+
+Event Calendar Feature
+
