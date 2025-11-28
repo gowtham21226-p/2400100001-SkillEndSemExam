@@ -1,1 +1,1 @@
-"Main File" 
+"Course Registration Feature" 
