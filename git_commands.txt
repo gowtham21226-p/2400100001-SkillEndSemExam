@@ -1,0 +1,15 @@
+git init
+git branch
+git checkout feature-course
+git add course registration
+git commit -m"add course registration"
+git merge feature-course
+git checkout main
+
+git checkout feature-event
+git add event calender
+git commit -m"add event calender"
+git merge feature-event
+git checkout main
+
+git commit -m"Final commit both are merged"
